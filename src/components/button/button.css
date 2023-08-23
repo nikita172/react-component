@@ -1,0 +1,10 @@
+.buttonInner{
+  padding: 8px 10px;
+  border-radius:3px;
+  cursor: pointer;
+  width: fit-content;
+}
+.buttonOuter{
+  display: flex;
+  align-items: center;
+}
